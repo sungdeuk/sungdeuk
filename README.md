@@ -15,6 +15,6 @@
 
 <br>
 
-> 저에게 궁금한 점이 더 생기셨다면 노션 페이지에서 확인해주세요.
+> 추가 정보는 노션 페이지에서 확인해주세요.
 
 노션 페이지 : <a href="https://sungdeuk.oopy.io/">https://sungdeuk.oopy.io/</a>
