@@ -1,7 +1,7 @@
 # 조성득 - Sungdeuk Jo
 안녕하세요, <code>#UIUX디자이너</code> <code>그래픽디자이너</code> <code>#웹퍼블리셔</code>  조성득입니다.
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <a href ="https://www.linkedin.com/in/sungdeuk-jo-8ab287234/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> 
 
 <br>
 
@@ -18,3 +18,5 @@
 > 추가 정보는 노션 페이지에서 확인해주세요.
 
 노션 페이지 : <a href="https://sungdeuk.oopy.io/">https://sungdeuk.oopy.io/</a>
+
+<a href ="https://www.linkedin.com/in/sungdeuk-jo-8ab287234/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
